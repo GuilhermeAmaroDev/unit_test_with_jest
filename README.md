@@ -1,6 +1,6 @@
 # 🧪 Testes Automatizados com Jest
 
-Projeto criado com o objetivo de praticar testes automatizados em JavaScript utilizando o Jest.
+Projeto criado com o objetivo de praticar testes de unidade em JavaScript utilizando o Jest.
 
 A proposta foi validar funções simples aplicando diferentes cenários de teste a partir de massa de dados.
 
